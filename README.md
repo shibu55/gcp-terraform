@@ -1,0 +1,4 @@
+サービスアカウント作成(編集権限とIAMのロール作成権限をもつ)
+cloudresourcemanager.googleapis.com
+container.googleapis.com
+を有効にする
